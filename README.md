@@ -12,7 +12,7 @@ pip install discord.py
 requests (For making HTTP requests to Plex and TMDB APIs)
 pip install requests
 
-3. Additional Setup
+Additional Setup
 Plex Token:
 The user will need their Plex Token, which can be found by inspecting network requests on the Plex Web app.
 Discord Token:
