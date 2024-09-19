@@ -34,7 +34,3 @@ PLEX_TOKEN = 'YOUR_PLEX_TOKEN'  # Replace with your Plex token
 DISCORD_TOKEN = 'YOUR_DISCORD_TOKEN'  # Replace with your Discord token
 PLEX_SERVER_URL = 'http://127.0.0.1:32400'  # Replace with your Plex server URL
 TMDB_API_KEY = 'YOUR_TMDB_API_KEY'  # Replace with your TMDB API key
-
-# How to run
-# After setting up the dependencies and configuration, you can run the bot with:
-# python PlexBot.py
