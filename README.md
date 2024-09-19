@@ -1,5 +1,10 @@
 # Plex-Search-Bot
 Basic search bot for searching your Plex Library for media
+
+The Bot can search your tv and movie Libraries for media and report back
+Movies - Reports Movies found with TMBD link embedded to title, total size and resoloution
+Tv Shows - Reports Tv Shows with TMBD link embedded to title, total seasons found and total size
+
 Dependecies
 Python Version
 Ensure Python 3.8 or higher is installed.
