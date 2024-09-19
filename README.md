@@ -28,10 +28,15 @@ Configuration
 Update the following values in the script before running the bot:
 
 Tokens can be added here. The Sever URL can also be changed if requied
+
 PLEX_TOKEN = 'YOUR_PLEX_TOKEN'  # Replace with your Plex token
+
 DISCORD_TOKEN = 'YOUR_DISCORD_TOKEN'  # Replace with your Discord token
+
 PLEX_SERVER_URL = 'http://127.0.0.1:32400'  # Replace with your Plex server URL
+
 TMDB_API_KEY = 'YOUR_TMDB_API_KEY'  # Replace with your TMDB API key
+
 
 How to Run
 After setting up the dependencies and configuration, you can run the bot with:
